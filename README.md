@@ -1,0 +1,2 @@
+# recepten-generator
+School project
